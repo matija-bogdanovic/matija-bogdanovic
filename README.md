@@ -20,7 +20,7 @@ LinkedIn: [linkedin.com/in/matija-bogdanovic](https://www.linkedin.com/in/matija
 💼 My Projects
 Here are some projects I’m proud of:
 
-Scope: Webflow, later on I did a custom code version using Next.js and for forms i used Next.js serverless script. - https://www.scope.space
+Rivvia: Webflow, later on I did a custom code version using Next.js and for forms i used Next.js serverless script. - https://www.rivvia.com
 Sokratiq: Framer, later on I did a custom code version using Next.js and for forms i used Next.js serverless script. - https://www.sokratiq.com
 
 🎯 Fun Fact
